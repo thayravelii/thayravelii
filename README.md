@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Thays Raveli 👋
 
 
-- 🔭 Atualmente trabalho como Estágiaria de Desenvolvimento na área de Inovação...
-- 🌱 Estudando PHP, Laravel e Vue.JS
+- 🔭 Atualmente trabalho como Estágiaria na área de Customer Service Onboarding ...
+- 🌱 Estudando Front-End e Gestão de Projetos
 
  <div>
   <a href="https://github.com/thayravelii">
