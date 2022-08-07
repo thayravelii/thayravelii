@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Thays Raveli 👋
 
 
-- 🔭 Atualmente trabalho como Estágiaria na área de Customer Service Onboarding ...
-- 🌱 Estudando Front-End e Gestão de Projetos
+- 🔭 Atualmente trabalho como Customer Support ...
+- 🌱 Estudando Front-End
 
  <div>
   <a href="https://github.com/thayravelii">
